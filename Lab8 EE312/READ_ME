@@ -1,5 +1,5 @@
 0. Make sure you are on a linux system and have access to command line
-1. After unzipping prog08_jcb5464_waa493.zip, type the make command to compile the plagiarismChecker.cpp (driver file) and fnameFinder.cpp (system-level funtion file).
+1. After unzipping cheaters_jcb5464.zip, type the make command to compile the plagiarismChecker.cpp (driver file) and fnameFinder.cpp (system-level funtion file).
 2. Run the executable ./plagariasmChecker with the following parameters
 	Parameter 1) path to directory containing documents to check (NOTE: Only include documents needed to be checked or an error may occur)
 	Parameter 2) the size of chunks to be checked (A size of 6 has been found to produce reliable results)
